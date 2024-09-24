@@ -64,15 +64,14 @@ Shell %>%
 
 ### Motivación
 
-Se escogió este activo en particular debido al compromiso con el medio ambiente y a indicadores ASG (Ambiental, Social y Gobernanza), alguno de sus objetivos son:
+La industria de la energia es considerada de las mas importantes a nivel global, ya que toda actividad realizada en un dia requiere de alguna consumo energetico, ya sea preparar comida, hasta el uso del transporte publico. Existen una gran variedad de tipos de energias,como por ejemplo la energia eolica, energia electrica.
 
-Alcanzar un 80% de energía renovable en su matriz de generación para 2024, reducir las emisiones de gases de efecto invernadero en un 40% para 2025 y aumentar la eficiencia energética en un 20% para 2030.
+Esta industria está en constante cambio debido a los avances tecnológicos y sociales que hay en el mundo. Claro ejemplo de cambios es Shell plc la cual ha ido transformándose a lo largo de los años a ser una empresa mas amigable con el medio ambiente junto con ser la primera en servicios.
 
-Como menciona el Diario Financiero (DF) Enel Chile sostiene una estrategia de sostenibilidad para llegar a ser una empresa carbono neutral al año 2040. Para lograr este objetivo, Enel destinará US\$1.700 millones a temas ASG, los que principalmente se gastarán en la construcción de nuevas plantas de energías renovables.
+Se escogio este activo debido a su compromiso de contribuir al desarrollo sostenible, el cual ha sido parte de los principios generales dd Shel desde 1997, con el objetivo de establecer una estrategia para convertirse en un negocio energetico con cero emisiones netas para 2050, generando valor para los accionistas, clientes y la sociedad en general <https://www.shell.com/sustainability/our-approach.html>
 
-Asimismo, varios documentos de la WOS (Web of Science) sustentan la iniciativa medioambiental de Enel Chile, principalmente con tarifas variables que logren cambiar los hábitos de uso de energía, homeostaticidad energética, entre otros.
+Shell confirmó que planea ahora reducir la "intensidad neta de carbono" de la energía que vende en entre un 15 y un 20% para 2030 en comparación con 2016, frente al 20% fijando anteriormente para el periodo <https://elperiodicodelaenergia.com/shell-rebaja-objetivos-climaticos-cambio-operaciones-sector-electrico/>
 
-Todos estos puntos fomentan el interés especifico sobre este activo por sobre los demás activos energéticos incluidos en el IPSA.
 
 ### Contexto
 
